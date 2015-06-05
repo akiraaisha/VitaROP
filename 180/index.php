@@ -22,7 +22,6 @@
 <h1>Which exploit would you like to launch?<br/>
 <a href="./pkg-installer.html">&#x2605; Package Installer</a><br/>
 <a href="./signup.html">SignUp App Launcher</a><br/>
-<p>More Coming Soon.</p>
 </center>
 </body>
 </html>

@@ -37,10 +37,8 @@ if ($_GET['launch'] == "signup") {
 <center>
 <img src="./head.png"/>
 <h1>
-	Either you are not on a PSVita, or this firmware is not yet supported.<br/>
-	The WebKit exploit currently supports up to 3.18<br/>
-	If your PSVita is on 3.18 or below and you are seeing this screen, it is likely that I have not made anything for your particular firmware.<br/>
-	Contact <a href="https://twitter.com/SMOKE587">@SMOKE587</a> on Twitter for more details.
+	Either you are not on a PSVita, or this firmware is not supported.<br/>
+	This tool currently supports firmwares 1.80 & 1.81<br/>
 </h1>
 </center>
 </body>
